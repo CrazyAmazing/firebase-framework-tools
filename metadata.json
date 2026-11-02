@@ -1,0 +1,15 @@
+{
+  "name": "HTB Sentinel Master",
+  "description": "The ultimate cybersecurity command center by ICubed Studios. Integrating Gmail Sentinel Pro, Edge Data Miner Agents, Enterprise AI Shields, and Gravity Physics Terminals for elite security orchestration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "Enterprise AI Security Shield (30+ Features)",
+    "Gmail Sentinel Pro Suite",
+    "Purview-Driven DLP Hooks",
+    "Adversarial Instruction Defense",
+    "Federated Swarm Intelligence",
+    "Automated Remediation Playbooks",
+    "Behavioral Biometrics Analysis",
+    "Dynamic Risk Scoring Engine"
+  ]
+}
